@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "roku-deploy": "^3.9.3"
+  }
+}
